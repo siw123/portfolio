@@ -1,0 +1,76 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "77b3693facc3d803417105997b4ffe96",
+      "css": "facebook",
+      "code": 59392,
+      "src": "typicons"
+    },
+    {
+      "uid": "f5b8e78b48e3028969a964e002daf745",
+      "css": "skype",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "b94db9f012742fbdde9cb59413e14e9b",
+      "css": "github",
+      "code": 59394,
+      "src": "typicons"
+    },
+    {
+      "uid": "25a30265650b260ef03df4cbbff80272",
+      "css": "linkedin",
+      "code": 59395,
+      "src": "typicons"
+    },
+    {
+      "uid": "w42gjpwdzqeszptpy1xqp8r77o6gcasj",
+      "css": "facebook-1",
+      "code": 59396,
+      "src": "modernpics"
+    },
+    {
+      "uid": "7141927f949e757c7e218cf70d9dceb4",
+      "css": "doc",
+      "code": 59397,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "9ea28ba01d59a4410fa3db9c02cce157",
+      "css": "github-1",
+      "code": 59398,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "f09340446e327a78969ea1bfac29c1a6",
+      "css": "linkedin-1",
+      "code": 59399,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "53d4dc777eeba379412efba3ee1cac9e",
+      "css": "facebook-2",
+      "code": 59400,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "8669af50382b53c48b9b803692828dd0",
+      "css": "github-circled-alt2",
+      "code": 59401,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "ff16079eb4be12c49bf3014d2322acdd",
+      "css": "github-circled",
+      "code": 59402,
+      "src": "zocial"
+    }
+  ]
+}
