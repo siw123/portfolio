@@ -3,7 +3,7 @@ body
 	background-color: #303030;
 	color:#ffffff;
 	font-family: 'Raleway', sans-serif;
-	text-align: center
+	text-align: center;
 }
  #container 
  {
@@ -24,13 +24,12 @@ body
  }
  
  #logo
- {
-	 font-family: 'Comfortaa', cursive;
-     font-family: 'Marcellus SC', serif;
+ {	  
 	 font-family: 'Advent Pro', sans-serif;
-	 font-size: 62px;
+	 font-size: 64px;
 	 float:left;
  }
+
  #zegar
  {
 	 float:right;
@@ -42,8 +41,8 @@ body
  #foto
  {
 	 margin:10px;	
-     margin-left:90px;
-     margin-bottom:25px;	 
+         margin-left:90px;
+         margin-bottom:25px;	 
 	 width: 200px;
 	 height: 320px;
 	 background-color:#04444e;
@@ -104,18 +103,30 @@ body
  {
 	 margin:10px;
 	 float:left;
-	 background-color:#0e76a8;
+	 background-color:#000071;
 	 width:220px;
-	 height: 60px;
+	 height: 38px;
 	 font-size:25px;
-	 
+	 padding-top:10px;
 	 text-align: center;
+	 font-family: 'Marcellus SC', serif;
+ }
+.cv:hover
+ {
+	 
+	 background-color:#0d4597;
+	
+	 
  }
  .opis
  {
+	 font-size:20px;
+	 text-align: center;
+	 color:#000000;
 	 margin:10px;
 	 float:left;
-	 background-color:#46f188;
+	 background-color:#fff458;
 	 width:460px;
-	 height: 368;
+	 height: 370;
+	 font-family: 'Open Sans', sans-serif;
  }
